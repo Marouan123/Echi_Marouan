@@ -11,8 +11,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
 
-## Most Used Languages 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echi-maroun&langs_count=8&layout=compact)
 
-## Echi Maroun's GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=echi-maroun&show_icons=true&theme=dark)
